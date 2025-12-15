@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'pixel-one-regular.ttf';
+src: url('pixel-one-regular.ttf'), url('font-file.woff'), url('font-file.svg');
+font-weight: normal;
+font-style: normal;
+}
